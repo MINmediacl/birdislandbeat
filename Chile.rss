@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Bird Island Beat</title>
+    <link>birdislandbeat.cl</link>
+    <description>Informamos nuestro mundo</description>
+    <language>es-cl</language>
+    <copyright>Isla Media</copyright>
+    <image>
+      <title>Bird Island Beat</title>
+      <link>birdislandbeat.cl</link>
+      <url>https://github.com/el20media/birdislandbeat/raw/main/Bird%20Island%20Beat.png</url>
+      <width>300</width>
+      <height>300</height>
+    </image>
+    <item>
+      <title>Hola</title>
+      <pubDate>Sat, 8 Jan 2022 17:22:45 -0300</pubDate>
+      <author>@MartinFM</author>
+      <category>Extra</category>
+      <description><![CDATA[<p align="center"><strong>Hola</strong></p>]]></description>
+    </item>
+  </channel>
+</rss>
